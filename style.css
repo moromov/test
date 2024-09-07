@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.about{
+    margin-top: 0%;
+    height: 284px;
+    width: 380px;
+    background-color: #356693;
+    border-radius: 50px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.photonikita{
+    width: 650px;
+    margin-top: -110px;
+    margin-left: -60px;
+}
+
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+}
+.name{
+    margin-top: -290px;
+    margin-left: 500px;
+    font-size: 70px;
+}
+
+.about2{
+    margin-top: 0%;
+    height: 90px;
+    width: 500px;
+    background-color: #356693;
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 500px;
+}
+.social{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 50px;
+    margin-top: -80px;
+    margin-left: 520px;
+    color: white;
+}
+
+.zag{
+    font-size: 50px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.esse1{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.udsu{
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 450px;
+}
+.nikita2{
+    width: 450px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.esse2{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 30px;
+    margin-top: -350px;
+    margin-left: 600px;
+}
